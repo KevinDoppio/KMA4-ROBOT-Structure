@@ -1,0 +1,13 @@
+# Test data for KMA4-ROBOT Test cases. 
+id:         'doppio'
+password:   'd0pp1o'
+
+tc001_data:
+  email:    'doppio@doppio-tech.com'
+  password: 'd0pp1o'
+  dob:      '10/11/2012'
+
+tc002_data:
+  email:    'doppio@doppio-tech.com'
+  password: 'd0pp1o'
+  card_no:  1212312121121231

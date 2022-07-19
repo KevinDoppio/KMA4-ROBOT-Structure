@@ -1,0 +1,16 @@
+# Setting for Android Emulator
+GLOBAL_TIMEOUT                    : 20
+remoteUrl                         : http://127.0.0.1:4723/wd/hub
+platformVersion                   : # '11'
+deviceName                        : # Device name
+udid                              : # udid 
+systemPort                        : # ${PORT}
+defaultScrollView                 : class=android.widget.ScrollView
+appPackage                        : # Enter your appPackage Here
+appActivity                       : # Enter your appActivity Here
+noWaitTimeout                     : 0s
+shortTimeout                      : 5s
+halfTimeout                       : 30s
+longTimeout                       : 60s
+brieftimeout                      : 1s
+app: # APK Path ex. /Users/tordoppio/kbol-application/KBOL-APPLICATION.apk
